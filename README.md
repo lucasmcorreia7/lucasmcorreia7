@@ -4,4 +4,4 @@ Hi!My name is Lucas Correia, im' from Brazil, I'm software engineer, that has be
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 
-###🌎 ''Knowledge is a glass that never fills''.
+<h3>🌎 ''Knowledge is a glass that never fills''.</h3>
