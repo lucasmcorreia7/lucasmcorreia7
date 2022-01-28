@@ -1,7 +1,6 @@
 #	Welcome 👋
-Hi!My name is Lucas Correia, im' from Brazil, I'm software engineer, that has been working as a back-end developer
+Olá!Meu nome é Lucas Correia, sou do Brasil, sou engenheiro de software, trabalho como desenvolvedor back-end 
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-
-<h3>🌎 ''Knowledge is a glass that never fills''.</h3>
+<h3>🌎 ''O conhecimento é um copo que nunca enche''.</h3>
