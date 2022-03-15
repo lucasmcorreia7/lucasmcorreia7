@@ -1,5 +1,5 @@
 ## Heey, Seja bem-vindo👋
-##  Sou Lucas Correia, sou desenvolvedor back-end
+##  Sou Lucas Correia, sou desenvolvedor backend
 
 <div align="center">
    <img height="165 cm" src="https://github-readme-stats.vercel.app/api?username=lucasmcorreia7&show_icons=true&theme=title_color&include_all_commits=true&count_private=true"/>
