@@ -36,7 +36,7 @@
    </div>
    
    
-   ![homem-letra](https://github.com/roboticapratica/Linguagem-C/blob/master/homem%20letra.gif)
+  
    
    
    </div>
