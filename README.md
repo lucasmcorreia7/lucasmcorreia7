@@ -1,5 +1,5 @@
 ## Heey, Seja bem-vindo👋
-##  Sou Lucas Correia, sou desenvolvedor de software
+##  Sou Lucas Correia, sou um apaixonado por tecnologia, amante do código livre e aprendiz no mundo de desenvolvimento
 
 <div align="center">
    <img height="165 cm" src="https://github-readme-stats.vercel.app/api?username=lucasmcorreia7&show_icons=true&theme=title_color&include_all_commits=true&count_private=true"/>
